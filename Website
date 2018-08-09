@@ -1,0 +1,40 @@
+<html>
+
+  <head>
+    <title>SHAKMA</title>
+  </head>
+  
+  <body>
+  
+    <!-- Logo on top of site -->
+    <center>
+      <img src="">
+    </center>
+    
+    <!-- Horizontal menu -->
+    
+    <!-- Menu containing "About" - "Releases" - "Live Shows" - "Contact" -->
+    
+    <!--  About: Shakma is a thrash metal band hailing from Haugesund on the west coast of Norway. 
+          Formed in 2014, it's vision was to combine elements of thrash and black metal with the thematics of old school horror movies.
+          
+    
+    <!-- Bottom containing links to bands Facebook and Bandcamp page -->
+    
+    <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
