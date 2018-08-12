@@ -1,0 +1,45 @@
+		img {
+			width: 750px;
+			height: 310px;
+		}
+
+		.responsive {
+			max-width: 100%; 
+			display:block; 
+			height: auto;
+			text-align: center;
+		}
+
+
+		#top {
+			height: 3px;
+			width: 60%;
+			background-color: black;
+		}
+
+		ul {
+			list-style-type: none;
+			overflow: hidden;
+		}
+
+
+		li {
+			display: inline-block;
+		}
+
+
+		li a {
+			display: inline-block;
+			padding: 8px 50px 8px 50px;
+			overflow: hidden;
+		}
+
+
+		a {
+			font-size: 20px;
+			font-family: monospace;
+			display: inline-block;
+			text-decoration: none;
+		}
+
+

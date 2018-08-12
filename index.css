@@ -1,0 +1,116 @@
+		img {
+			width: 750px;
+			height: 310px;
+		}
+
+		h1 {
+			font-family: monospace;
+			text-align: center;
+		}
+
+		.responsive {
+			max-width: 100%; 
+			display:block; 
+			height: auto;
+			text-align: center;
+		}
+
+
+		#top {
+			height: 3px;
+			width: 60%;
+			background-color: black;
+		}
+
+		ul {
+			list-style-type: none;
+			overflow: hidden;
+		}
+
+
+		li {
+			display: inline-block;
+		}
+
+
+		li a {
+			display: inline-block;
+			padding: 8px 50px 8px 50px;
+			overflow: hidden;
+		}
+
+		/*Linker i meny*/
+		a {
+			font-size: 20px;
+			font-family: monospace;
+			display: inline-block;
+			text-decoration: none;
+		}
+
+		/*Normal tekst*/
+		p {
+			font-family: monospace;
+			font-size: 16px;
+		}
+
+		/*Sentrering av tekst*/
+		.bio {
+			padding-right: 400px;
+			padding-left: 400px;
+			text-align: center;
+		}
+
+		/*Bandbilde*/
+		#band {
+			width: 650px;
+			height: 430px;
+			max-width: 100%; 
+			
+		}
+
+		/*Div i line-up*/
+		#lineup {
+			display: block; 
+			text-align: center;
+			max-width: 100%; 
+		}
+
+
+		/*Størrelse på cover*/
+		#cover {
+			width: 400px;
+			height: 400px;
+		}
+
+		.discodiv {
+			display: flex;
+			width: 100%;
+			text-align: center;
+		}
+
+		#demodiv {
+			flex: 20%;		
+			text-align: center;
+			margin-left: 300px;
+		}
+		
+		#albumdiv {
+			flex: 20%;
+			text-align: center;
+			margin-right: 300px;
+		}
+
+		/*Tabell*/
+		table {
+			margin-right: auto;
+			margin-left: auto;
+			text-align: center;
+			font-family: Courier New;" 
+		}
+
+		td {
+			vertical-align: top;
+			padding: 5px;
+
+
+		}
